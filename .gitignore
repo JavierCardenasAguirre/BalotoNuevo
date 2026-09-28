@@ -1,0 +1,15 @@
+node_modules/
+.next/
+*.log
+.env
+.env.local
+tsconfig.tsbuildinfo
+.DS_Store
+dist/
+build/
+.vercel
+.env*
+!.env.example
+
+# Abacus internal files
+.abacus.donotdelete
